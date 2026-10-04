@@ -5,7 +5,7 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-blue?style=for-the-badge&logo=linux)
 
 ### 👩‍💻 About Me
-> From west Godavari, Andhra pradesh | Degree Graduate | Passionate about Cloud Computing
+> From West Godavari, Andhra pradesh | Degree Graduate | Passionate about Cloud Computing
 > 
 > Currently learning and building real projects on AWS! My goal is to become an AWS Solutions Architect.
 
